@@ -1,0 +1,28 @@
+.container{
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction: column;
+    gap:3rem;
+}
+.input-div{
+    width:100%;
+    height:300px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #b37777;
+    border:1px dashed black;
+}
+.remove{
+    width:200px;
+}
+.image-name{
+    width:100%;
+}
+.aa{
+    width:150px;
+}
+.table{
+    width:800px;
+}
